@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "3x4.png"
   name             : "Fajar Sofyantoro"
   pronouns         : # example: "she/her"  
   bio              : "Looking for collaborations in snake venom research"
